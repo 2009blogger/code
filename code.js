@@ -1,14 +1,14 @@
 var links = [
   {
     text: "Dana Kaget Hari Ini",
-    url: "https://produk.com/link1"
+    url: "https://zanygvwy.blogspot.com/"
   },
   {
-    text: "Dana Kaget Hari Ini 2",
-    url: "https://produk.com/link1"
+    text: "Gopay Hadiah Hari Ini 2",
+    url: "https://zanygvwy.blogspot.com/search/label/Gopay%20Hadiah"
   },
   {
-    text: "Dana Kaget Hari Ini 3",
-    url: "https://produk.com/link1"
+    text: "Kode Redeem Mobile Legends Hari Ini",
+    url: "https://zanygvwy.blogspot.com/search/label/Kode%20Redeem%20ML"
   }
 ];
